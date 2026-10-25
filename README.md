@@ -3,6 +3,7 @@
 **Estudiante:** Eduardo Andre Orellana Mejia  
 **Carrera:** Ingeniería de Software II  
 **Sección:** #771
+
 **Ing.:** Josué Vinicio Alemán Watters
 
 Repositorio de evidencias y entregas del curso.
